@@ -4,6 +4,7 @@ Based on the work by [Daniel Foster](https://github.com/dnfost/)
 ## Dependencies
 * Python 3.6+
 * matplotlib (`pip install matplotlib`)
+* requests (`pip install requests`)
 
 # Features
 * Convert Selig formatted aerofoil data files to comma separated values corresponding to coordinates in x, y, and z
